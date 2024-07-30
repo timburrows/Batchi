@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Batchi.Core", "Batchi.Core\Batchi.Core.csproj", "{A97D8EB6-79D0-4921-B9DA-814682A33ECD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Batchi.Example", "Batchi.Example\Batchi.Example.csproj", "{450F656E-D52B-4F05-9F5B-80803C6B782B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Batchi.Migrations", "Batchi.Migrations\Batchi.Migrations.csproj", "{0BB79AD8-CAA9-4C89-8C03-B50CCA138948}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Batchi.Tests", "Batchi.Tests\Batchi.Tests.csproj", "{EFF20B21-C7B3-434A-BB04-BCCD0C8D6C38}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A97D8EB6-79D0-4921-B9DA-814682A33ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A97D8EB6-79D0-4921-B9DA-814682A33ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A97D8EB6-79D0-4921-B9DA-814682A33ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A97D8EB6-79D0-4921-B9DA-814682A33ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{450F656E-D52B-4F05-9F5B-80803C6B782B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{450F656E-D52B-4F05-9F5B-80803C6B782B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{450F656E-D52B-4F05-9F5B-80803C6B782B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{450F656E-D52B-4F05-9F5B-80803C6B782B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BB79AD8-CAA9-4C89-8C03-B50CCA138948}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BB79AD8-CAA9-4C89-8C03-B50CCA138948}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BB79AD8-CAA9-4C89-8C03-B50CCA138948}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BB79AD8-CAA9-4C89-8C03-B50CCA138948}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EFF20B21-C7B3-434A-BB04-BCCD0C8D6C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFF20B21-C7B3-434A-BB04-BCCD0C8D6C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFF20B21-C7B3-434A-BB04-BCCD0C8D6C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFF20B21-C7B3-434A-BB04-BCCD0C8D6C38}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
